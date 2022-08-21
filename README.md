@@ -1,0 +1,2 @@
+# Superstore_Dashboard_Data_Visualization
+The main objective of this project is to explore the possibilities of visualization using PowerBI. Here we have used superstore dataset for the purpose.  PowerBI is a very efficient and elegant tool offered by Microsoft. It offers advanced data exploration, modelling, shaping, and report creation.  Superstore Dashboard visualization of training data using power bi
